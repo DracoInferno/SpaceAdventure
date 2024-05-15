@@ -4,20 +4,20 @@ Steven and Joe Project about a dog in space. He explores space and enconter pant
 Made for kids to be fun and enjoyable. 
 
 Steven-
-Metroited
-Stars and Star Counter
-Wormhole Teleport
-Helped with Audio function
-Helped with Animation
-Main Menu 
-Pause menu
+Metroited,
+Stars and Star Counter,
+Wormhole Teleport,
+Helped with Audio function,
+Helped with Animation,
+Main Menu,
+Pause menu,
 
 Joe-
-Music
-Art
-GassyPlanet
-Sun
-Animation
+Music,
+Art,
+GassyPlanet,
+Sun,
+Animation,
 Wrap Map
 
 
